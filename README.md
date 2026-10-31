@@ -8,6 +8,8 @@ Container slots (chests etc.) are not locked, and the creative inventory screen 
 
 To lock more items, edit `LockedItems.java`.
 
+Keybind: Pressing . Toggles It On/Off Its defualted to on when you launch the game.
+
 ## Build
 
 Requires JDK 21. Run `gradle build` and take the jar from `build/libs/`. The included GitHub Actions workflow does this on every push.
